@@ -8,3 +8,6 @@ Qlik Sense App Link- https://6pmqp2nwhnknzqi.sg.qlikcloud.com/sense/app/90007656
 
 
 Demonstration Video Link-https://drive.google.com/drive/folders/1SomSE14i2o83r3HKFxeGrOZ79ePK4p2f?usp=sharing
+
+
+PDF Link-https://drive.google.com/file/d/1R9qOchBTXtV_p717l8bt0YUEVrzdCfig/view?usp=sharing
